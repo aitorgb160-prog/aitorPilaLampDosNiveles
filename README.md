@@ -130,4 +130,4 @@ systemctl restart apache2
 Aplicación en el navegador en http://localhost:8080:  
 ![fun](img/funcionando.png)  
 ### 5.5 Prueba de funcionamiento en vídeo
-![video](img/video.mp4)  
+El vídeo pesa demasiado para subirlo a GitHub, se encontrará en este enlace: https://drive.google.com/file/d/1qZPCJZ43vXlYooIMQQ9rkRQ6HwOY9SQ-/view?usp=sharing
