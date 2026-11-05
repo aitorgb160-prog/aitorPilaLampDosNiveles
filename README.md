@@ -1,6 +1,6 @@
 # Infraestructura Pila LAMP de dos niveles con Vagrant
-**Autor:** Aitor Guerrero Barrero  
-**Módulo:** Implantación de Aplicaciones Web ASIR2
+Aitor Guerrero Barrero  
+Implantación de Aplicaciones Web ASIR2
 ## 1. Introducción
 En esta práctica montaremos una infraestructura de dos niveles y se desplegará en ella una aplicación de gestión de usuarios. Usaremos Vagrant para las máquinas virtuales.
  
