@@ -131,3 +131,6 @@ Aplicación en el navegador en http://localhost:8080:
 ![fun](img/funcionando.png)  
 ### 5.5 Prueba de funcionamiento en vídeo
 El vídeo pesa demasiado para subirlo a GitHub, se encontrará en este enlace: https://drive.google.com/file/d/1qZPCJZ43vXlYooIMQQ9rkRQ6HwOY9SQ-/view?usp=sharing
+
+## 6. Conclusiones
+He aprendido en esta práctica como cortar el acceso a internet a una maquina de vagrant cuando este hipervisor crea inicialmente la maquina con una tarjeta de red en NAT para el SSH configurando su ip route, no he tenido incidencias, solo un par de ellas pero por error de indicar las rutas.  
